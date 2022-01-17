@@ -4,7 +4,7 @@ A bd old id cloner
 
 screenshot :
 
-<img src="bdclone/Screenshot_20220117_222346.jpg">
+<img src="https://i.ibb.co/MfJGHRQ/Screenshot-20220117-222346.jpg" alt="Screenshot-20220117-222346" border="0">
 
 <br/>
 
